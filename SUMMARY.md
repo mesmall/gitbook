@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [TEST](test.md)
-* [TEST2](test2.md)
+* [鲸版](test.md)
+* [主站](test2.md)
 
